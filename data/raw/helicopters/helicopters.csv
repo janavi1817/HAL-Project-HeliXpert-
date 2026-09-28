@@ -1,0 +1,11 @@
+helicopter_id,model,manufacturer,variant,helicopter_type,rotor_configuration,country,data_status,source
+HEL-H125,H125,Airbus Helicopters,H125,Light single-engine utility,Main rotor + conventional tail rotor,France,verified_public,Airbus H125 technical information
+HEL-H135,H135,Airbus Helicopters,H135,Light twin-engine multi-role,Bearingless main rotor + Fenestron,France/Germany,verified_public,Airbus H135 technical information
+HEL-AW139,AW139,Leonardo Helicopters,AW139M,Medium twin-engine multi-role,Main rotor + tail rotor,Italy,verified_public,Leonardo AW139M technical data
+HEL-B412,Bell 412,Bell Textron,412 EPX,Medium twin-engine utility,Four-blade main rotor + tail rotor,United States,verified_public,Bell 412 official product page
+HEL-UH60,UH-60M,Sikorsky / Lockheed Martin,UH-60M Black Hawk,Military utility,Main rotor + tail rotor,United States,verified_public,Lockheed Martin UH-60M page
+HEL-UH1N,UH-1N,Bell,UH-1N Twin Huey,Military utility,Main rotor + tail rotor,United States,image_label_only,DCSkyCam public dataset
+HEL-MH65,MH-65,Airbus Helicopters,MH-65 Dolphin,Search and rescue,Main rotor + Fenestron,United States,image_label_only,DCSkyCam public dataset
+HEL-S76,S-76,Sikorsky,S-76 family,Medium twin-engine civil,Main rotor + tail rotor,United States,image_label_only,DCSkyCam public dataset
+HEL-VH92,VH-92,Sikorsky,VH-92A,Presidential transport,Main rotor + tail rotor,United States,image_label_only,DCSkyCam public dataset
+HEL-VH3D,VH-3D,Sikorsky,VH-3D,Presidential transport,Main rotor + tail rotor,United States,image_label_only,DCSkyCam public dataset

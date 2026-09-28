@@ -1,0 +1,9 @@
+component_id,component_type,component_name,description,source_type
+COMP-ROTOR-MAIN,Rotor System,Main Rotor,Primary lift/thrust rotor,reference_taxonomy
+COMP-ROTOR-TAIL,Rotor System,Tail Rotor / Fenestron,Anti-torque system; configuration varies by helicopter,reference_taxonomy
+COMP-ENGINE,Propulsion,Turboshaft Engine,Primary propulsion powerplant,reference_taxonomy
+COMP-TRANS,Transmission,Main Transmission,Transfers engine power to rotor system,reference_taxonomy
+COMP-FUEL,Fuel System,Fuel System,Fuel storage and delivery system,reference_taxonomy
+COMP-HYD,Hydraulic System,Hydraulic System,Hydraulic actuation/support system where fitted,reference_taxonomy
+COMP-AVIONICS,Avionics,Avionics / Flight Management,"Navigation, communication and flight-management equipment",reference_taxonomy
+COMP-LANDING,Airframe,Landing Gear,Landing gear/skid system depending on aircraft,reference_taxonomy
