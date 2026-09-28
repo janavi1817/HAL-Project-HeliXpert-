@@ -22,13 +22,13 @@ node_modules/
 dist/
 
 # ─── Root-level stale duplicate frontend (real frontend lives in HeliXpert/) ──
-index.html
-package.json
-package-lock.json
-postcss.config.js
-tailwind.config.js
-vite.config.js
-src/
+/index.html
+/package.json
+/package-lock.json
+/postcss.config.js
+/tailwind.config.js
+/vite.config.js
+/src/
 
 # ─── Database (large binary) ──────────────────────────────────────────────────
 data/database/*.db
